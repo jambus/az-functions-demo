@@ -1,0 +1,6 @@
+{
+    "azureFunctions.deploySubpath": "az.function.demo/target/azure-functions/az.function.demo-20200925153515081",
+    "azureFunctions.projectLanguage": "Java",
+    "azureFunctions.projectRuntime": "~3",
+    "azureFunctions.preDeployTask": "package"
+}
